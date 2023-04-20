@@ -73,3 +73,13 @@ footer img{
     height: 50px;
     margin: 12px;
 }
+
+@media only screen and (max-width: 960px) {
+    .course-container{
+        display: block;
+    }
+
+    .testimonials{
+        display: block;
+    }
+}
